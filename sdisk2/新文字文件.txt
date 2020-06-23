@@ -1,0 +1,8 @@
+
+C:\Program Files (x86)\Arduino\hardware\tools\avr\bin
+avrdude -Cavrdude.conf -v -patmega328p -carduino -PCOM23 -b115200 -D -Uflash:w:d:\src\sdisk2_original.hex:i
+avrdude -Cavrdude.conf -v -patmega328p -carduino -PCOM25 -b115200 -D -Uflash:w:C:\src\sdisk2_original.hex:i
+avrdude -Cavrdude.conf -v -patmega328p -carduino -PCOM23 -b115200 -D -Uflash:w:C:\Users\finance\Downloads\sdisk2\firmware\sdisk2.hex:i
+
+
+­×§ïsub.SÀW²v
